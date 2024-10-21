@@ -1,0 +1,6 @@
+torch
+tensorflow
+sentencepiece
+sacremoses
+transformers
+tf_keras
